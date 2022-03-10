@@ -33,7 +33,7 @@ Column {data-width=350}
 Column {data-width=650}
 ------------------------------------ 
 
-### Summary
+### Highlights
 
 > My work rides the seams between economics, finance, and underlying value chains, commodities, operations, and strategies. 
 
@@ -45,6 +45,7 @@ Column {data-width=650}
 <h2> Resume </h2>
 
 [You can access my resume here](doc/resume.pdf)
+
 
 Works
 ==============================================
